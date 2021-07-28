@@ -252,7 +252,7 @@ header {
 }
 
 .ikea-title h2 {
-	margin-top: 0;
+	margin: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -263,6 +263,7 @@ header {
 
 .ikea-title h3 {
 	margin-top: 30px;
+	margin-bottom: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -345,7 +346,7 @@ header {
 }
 
 .optimization-title h2 {
-	margin-top: 0;
+	margin: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -356,6 +357,7 @@ header {
 
 .optimization-title h3 {
 	margin-top: 30px;
+	margin-bottom: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -438,7 +440,7 @@ header {
 }
 
 .novelty-title h2 {
-	margin-top: 0;
+	margin: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -449,6 +451,7 @@ header {
 
 .novelty-title h3 {
 	margin-top: 30px;
+	margin-bottom: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -531,7 +534,7 @@ header {
 }
 
 .hyperbolic-title h2 {
-	margin-top: 0;
+	margin: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -542,6 +545,7 @@ header {
 
 .hyperbolic-title h3 {
 	margin-top: 30px;
+	margin-bottom: 0;
 	font-family: Neucha;
 	font-style: normal;
 	font-weight: normal;
@@ -683,7 +687,7 @@ header {
 footer {
 	margin: 0 auto;
 	margin-top: 100px;
-	height: 481px;
+	height: 381px;
 }
 
 .feedback-form {
